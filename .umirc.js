@@ -7,4 +7,5 @@ export default {
   targets: {
     ie: 11,
   },
+  title: '麻瓜AI'
 }
